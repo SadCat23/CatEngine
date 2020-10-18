@@ -1,0 +1,6 @@
+# Build results
+[Rr]elease/
+[Dd]ebug/
+.vs/
+x64/
+x86/
